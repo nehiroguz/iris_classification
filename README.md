@@ -146,7 +146,7 @@ data['target'] = iris.target
 
 ```
 
-Bu kod, iris veri setini scikit-learn kütüphanesinden yükler ve bir Pandas DataFrame'e dönştürür.
+Bu kod, iris veri setini scikit-learn kütüphanesinden yükler ve bir Pandas DataFrame'e dönüştürür.
 
 #### Veriyi İşleme
 ```Python
