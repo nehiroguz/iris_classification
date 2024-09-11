@@ -204,4 +204,4 @@ Bu projede katkıda bulunanlar:
 Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır.
 
 ### NOT
-Bu örnekte, README dosyasını hem İngilizce hem de Türkçe olarak iki dilde hazırladım. Bölümler arasında ayrıcı çizgiler ('-------') kullanarak iki dili ayırt edebilirsiniz.
+Bu örnekte, README dosyasını hem İngilizce hem de Türkçe olarak iki dilde hazırladım. Bölümler arasında ayırıcı çizgiler ('-------') kullanarak iki dili ayırt edebilirsiniz.
